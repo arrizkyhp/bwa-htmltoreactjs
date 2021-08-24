@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/bwa-htmltoreactjs/static/css/main.b13e043c.chunk.css",
+    "main.js": "/bwa-htmltoreactjs/static/js/main.407f9cb3.chunk.js",
+    "main.js.map": "/bwa-htmltoreactjs/static/js/main.407f9cb3.chunk.js.map",
+    "runtime-main.js": "/bwa-htmltoreactjs/static/js/runtime-main.037653a1.js",
+    "runtime-main.js.map": "/bwa-htmltoreactjs/static/js/runtime-main.037653a1.js.map",
+    "static/js/2.bc41ee74.chunk.js": "/bwa-htmltoreactjs/static/js/2.bc41ee74.chunk.js",
+    "static/js/2.bc41ee74.chunk.js.map": "/bwa-htmltoreactjs/static/js/2.bc41ee74.chunk.js.map",
+    "static/js/3.4471e738.chunk.js": "/bwa-htmltoreactjs/static/js/3.4471e738.chunk.js",
+    "static/js/3.4471e738.chunk.js.map": "/bwa-htmltoreactjs/static/js/3.4471e738.chunk.js.map",
+    "index.html": "/bwa-htmltoreactjs/index.html",
+    "static/css/main.b13e043c.chunk.css.map": "/bwa-htmltoreactjs/static/css/main.b13e043c.chunk.css.map",
+    "static/js/2.bc41ee74.chunk.js.LICENSE.txt": "/bwa-htmltoreactjs/static/js/2.bc41ee74.chunk.js.LICENSE.txt",
+    "static/media/clients-01.678ec97a.svg": "/bwa-htmltoreactjs/static/media/clients-01.678ec97a.svg",
+    "static/media/clients-02.bbcc409a.svg": "/bwa-htmltoreactjs/static/media/clients-02.bbcc409a.svg",
+    "static/media/clients-03.fec71242.svg": "/bwa-htmltoreactjs/static/media/clients-03.fec71242.svg",
+    "static/media/clients-04.3ca5f418.svg": "/bwa-htmltoreactjs/static/media/clients-04.3ca5f418.svg",
+    "static/media/clients-05.031eaac2.svg": "/bwa-htmltoreactjs/static/media/clients-05.031eaac2.svg",
+    "static/media/feature-tile-icon-02.f3554320.svg": "/bwa-htmltoreactjs/static/media/feature-tile-icon-02.f3554320.svg",
+    "static/media/feature-tile-icon-03.f2c5213b.svg": "/bwa-htmltoreactjs/static/media/feature-tile-icon-03.f2c5213b.svg",
+    "static/media/hero-image.57c068d3.png": "/bwa-htmltoreactjs/static/media/hero-image.57c068d3.png",
+    "static/media/style.css": "/bwa-htmltoreactjs/static/media/illustration-section-01.3caff9af.svg",
+    "static/media/logo.54049f7a.svg": "/bwa-htmltoreactjs/static/media/logo.54049f7a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.037653a1.js",
+    "static/js/2.bc41ee74.chunk.js",
+    "static/css/main.b13e043c.chunk.css",
+    "static/js/main.407f9cb3.chunk.js"
+  ]
+}
